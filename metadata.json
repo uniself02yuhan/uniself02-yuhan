@@ -2,5 +2,7 @@
   "name": "고전의 서재 100 — 맞춤형 고전문학 큐레이션 & 독서 아카이브",
   "description": "국내외 6대 기관 선정 고전문학 100선 기반 취향 맞춤 도서 추천, 심층 줄거리 요약, 독서 기록장, 감상평 공유 및 독서 모임 플랫폼",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
